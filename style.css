@@ -244,11 +244,11 @@ header {
   margin-inline: auto;
 }
 
-.header_content h2, h4 {
+.header_content h4 {
   margin-bottom: 0.7rem;
 }
 
-.header_content h2, h4 span {
+.header_content h2 span {
   color: var(--color-primary);
 }
 
