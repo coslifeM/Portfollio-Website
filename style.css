@@ -248,7 +248,7 @@ header {
   margin-bottom: 0.7rem;
 }
 
-.header_content h2 span {
+.header_content h4 span {
   color: var(--color-primary);
 }
 
