@@ -190,6 +190,10 @@ nav {
   color: var(--color-gray-500);
 }
 
+.nav_menu {
+  color: var(--color-gray-500);
+}
+
 .nav_menu a:hover {
   color: var(--color-gray-400);
 }
