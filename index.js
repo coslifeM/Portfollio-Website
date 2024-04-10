@@ -128,3 +128,5 @@ if(window.innnerWidth < 768) {
 window.addEventListener('load', () => {
   document.body.className = window.localStorage.getItem('theme');
 })
+// Footer Script
+  document.getElementById("currentYear").textContent = new Date().getFullYear();
